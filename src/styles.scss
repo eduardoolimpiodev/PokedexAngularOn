@@ -12,7 +12,5 @@ html {
 main {
     width: rem-calc(600);
     margin: 0 auto;
-    
-    display: flex;
-    flex-wrap: wrap;
+    box-sizing: border-box;
 }
